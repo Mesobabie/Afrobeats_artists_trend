@@ -31,3 +31,11 @@ This is a simple data project that uses **Google Trends** to analyze and visuali
 > On **July 15**, Burna Boy had a major spike in search interest — likely due to an **album release**.  
 > This kind of spike may suggest **increased demand for events or appearances**.
 
+## 🔍 Future Improvements
+- Add Twitter and Instagram sentiment analysis
+- Incorporate ticket pricing data
+- Train a simple ML model for venue capacity prediction
+- Build a web interface using Streamlit or Flask
+
+## 🤝 Acknowledgments
+Thanks to the open-source tools and Google Trends API that made this project possible. Inspired by real-world challenges in event planning and music analytics.
